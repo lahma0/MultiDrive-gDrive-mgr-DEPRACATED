@@ -6,7 +6,9 @@ multidrive
 The following libraries are used in this project:
 
 Google.DotNET.API - specifically "google-api-dotnet-client-1.2.4737-beta.binary"
+
 ObjectListView - http://objectlistview.sourceforge.net/cs/index.html
+
 Mvolo.ShellIcons - http://mvolo.com/iconhandler-20-file-icons-in-your-aspnet-applications/
 
 NOTE: As I have found no secure way of storing my Google Client Secret within an open source application, you will have to provide your own. If you do not know how to obtain a Google Client ID/Secret, I will shortly post instructions below.
